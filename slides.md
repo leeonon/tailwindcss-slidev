@@ -12,7 +12,7 @@ highlighter: shiki
 lineNumbers: false
 # some information about the slides, markdown enabled
 info: |
-  ## Slidev Starter Template
+  ## Slidev Starter Template1
   Presentation slides for developers.
 
   Learn more at [Sli.dev](https://sli.dev)
